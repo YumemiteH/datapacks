@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "hurt_entity": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {}
+    }
+  },
+
+  "rewards": {
+    "function": "yum:item/trigger/q_or_f"
+  }
+}

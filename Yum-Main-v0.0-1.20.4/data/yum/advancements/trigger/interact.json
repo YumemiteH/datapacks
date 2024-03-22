@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "hurt_entity": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {}
+    }
+  },
+
+  "rewards": {
+    "function": "yum:item/trigger/interact"
+  }
+}

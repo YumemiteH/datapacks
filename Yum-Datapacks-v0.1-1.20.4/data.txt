@@ -1,0 +1,27 @@
+-- DATA --
+yum:world 世界信息
+	- time int<0..23999> 时间
+	- day int<1..80> 日期
+	- year int<1..> 年份
+	- x int 世界出生点x坐标
+	- y int 世界出生点y坐标
+	- z int 世界出生点z坐标
+	- blocks [{}] 区块信息
+		- x int 区块x坐标
+		- y int 区块y坐标
+		- z int 区块z坐标
+        - sections [{}][384] 区块中的小片区域(4*16*4)的信息
+            - x int 该小片区域的x坐标
+            - y int 该小片区域的y坐标
+            - z int 该小片区域的z坐标
+            - biome string<biome> 该小片区域的生物群系
+
+yum:entity 实体信息
+	- player [{}] 玩家数据
+		- uuid int[] 玩家的uuid
+		- name string 玩家的名字
+		- saved_inventory [{}] 玩家保存的物品栏
+
+yum:data 临时数据
+
+yum:minigame 小游戏

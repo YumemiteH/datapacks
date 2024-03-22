@@ -1,0 +1,23 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.0,
+  "downfall": 0.4,
+  "effects": {
+    "particle": {
+      "probability": 0.01,
+      "options": {
+        "type": "minecraft:heart"
+      }
+    },
+    "fog_color": 16764902,
+    "sky_color": 16764902,
+    "water_color": 16764902,
+    "water_fog_color": 16764902,
+    "grass_color": 16764902,
+    "foliage_color": 16284874
+  },
+  "carvers": {},
+  "features": [],
+  "spawn_costs": {},
+  "spawners": {}
+}

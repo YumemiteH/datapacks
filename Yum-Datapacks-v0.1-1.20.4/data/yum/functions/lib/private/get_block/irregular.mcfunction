@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ #yum:irregular/stairs run return run function yum:private/get_block/irregular/stairs

@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ oak_stairs[facing]

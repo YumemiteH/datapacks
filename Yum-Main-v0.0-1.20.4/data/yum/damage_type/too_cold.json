@@ -1,0 +1,7 @@
+{
+    "message_id": "player",
+    "death_message_type": "default",
+    "scaling": "never",
+    "exhaustion": 0.2,
+    "effects": "freezing"
+}

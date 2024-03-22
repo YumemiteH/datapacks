@@ -1,0 +1,1 @@
+execute store result storage yum:world day int 1 run scoreboard players add .day yum 1

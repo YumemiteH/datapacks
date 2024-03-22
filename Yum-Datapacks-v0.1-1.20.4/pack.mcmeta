@@ -1,0 +1,7 @@
+{
+	"pack": {
+		"description": "Yum的数据包",
+		"pack_format": 16,
+		"supported_formats": [16,27]
+	}
+}

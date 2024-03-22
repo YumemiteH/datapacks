@@ -1,0 +1,4 @@
+-- SCORE --
+yum
+.day 游戏天数 
+.time 游戏当天时间
